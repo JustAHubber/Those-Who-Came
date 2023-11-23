@@ -1,4 +1,4 @@
-# Those-Who-Came
+# Those Who Came
 First Unity game made in 2022.3.9f1. Went pretty well, I am proud of it.
 
 I used quite a lot of assets from the asset store as I am not personally skilled enough to be creating my own models and textures.
